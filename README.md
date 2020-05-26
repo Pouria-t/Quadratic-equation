@@ -1,2 +1,4 @@
-یک اسکریپت ساده که معادلات درجه 2 را محاسبه می کند
-A simple script that calculates 2nd degree equations
+The simple script that calculates 2nd degree equations
+
+
+اسکریپت ساده که معادله های درجه دو را حساب می کند
