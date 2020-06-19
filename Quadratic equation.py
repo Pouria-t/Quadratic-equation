@@ -3,7 +3,7 @@
 #website:pcvitamin.ir
 #version:1.0
 #strat
-form math import*
+from math import*
 a=int(input("Enter Your  Number A -->  :"))
 b=int(input("Enter Your  Number B -->  :"))
 c=int(input("Enter Your  Number C -->  :"))
