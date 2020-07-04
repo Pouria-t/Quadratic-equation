@@ -6,7 +6,7 @@
 
 **How to install script ?**
 
-[More information in Persian](https://www.pouria-t.ir/2020/06/20/quadratic-equation/)
+[More information in Persian](https://www.pouria-t.ir/2020/07/04/quadratic-equation/)
 
 1.clone your computer | https://github.com/Pouria83/Quadratic-equation.git
 
